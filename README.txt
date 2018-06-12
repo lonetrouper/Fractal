@@ -1,0 +1,1 @@
+This code opens a dialog box to get input of the x and y cordinates of a point and the length of the largest box of the rectangular fractal. It then draws the fractal shape on a frame.
